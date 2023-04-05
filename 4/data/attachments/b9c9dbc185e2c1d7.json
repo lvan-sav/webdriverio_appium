@@ -1,0 +1,72 @@
+{
+  "actions": [
+    {
+      "id": "action8",
+      "type": "pointer",
+      "parameters": {
+        "pointerType": "mouse"
+      },
+      "actions": [
+        {
+          "type": "pointerMove",
+          "button": 0,
+          "width": 0,
+          "height": 0,
+          "pressure": 0,
+          "tangentialPressure": 0,
+          "tiltX": 0,
+          "tiltY": 0,
+          "twist": 0,
+          "altitudeAngle": 0,
+          "azimuthAngle": 0,
+          "x": 0,
+          "y": 0,
+          "duration": 0,
+          "origin": {
+            "element-6066-11e4-a52e-4f735466cecf": "d47f866e-af9c-4498-96aa-744ec1857057"
+          }
+        },
+        {
+          "type": "pointerDown",
+          "button": 0,
+          "width": 0,
+          "height": 0,
+          "pressure": 0,
+          "tangentialPressure": 0,
+          "tiltX": 0,
+          "tiltY": 0,
+          "twist": 0,
+          "altitudeAngle": 0,
+          "azimuthAngle": 0
+        },
+        {
+          "type": "pause",
+          "duration": 10
+        },
+        {
+          "type": "pointerMove",
+          "button": 0,
+          "width": 0,
+          "height": 0,
+          "pressure": 0,
+          "tangentialPressure": 0,
+          "tiltX": 0,
+          "tiltY": 0,
+          "twist": 0,
+          "altitudeAngle": 0,
+          "azimuthAngle": 0,
+          "x": 0,
+          "y": 0,
+          "duration": 10,
+          "origin": {
+            "element-6066-11e4-a52e-4f735466cecf": "1979a08a-dcc1-4193-8ade-ca8ac3f04542"
+          }
+        },
+        {
+          "type": "pointerUp",
+          "button": 0
+        }
+      ]
+    }
+  ]
+}
